@@ -76,7 +76,8 @@ Halo! Saya mahasiswa Informatika di UTDI sekaligus seorang pengembang perangkat 
 
 - *Peserta Webinar Nasional* - Pencegahan Serangan Cyber Dengan Penetrasi Testing (HIMAFORKA x Universitas Teknologi Digital Indonesia) | Januari 2025  
   <p align="center">
-    
+    <img width="6250" height="4419" alt="DANDI LAELAEM" src="https://github.com/user-attachments/assets/ec5cb14c-4f63-4a64-89da-d3cea2c6bf1c" />
+
   </p>
 
   
@@ -86,5 +87,7 @@ Halo! Saya mahasiswa Informatika di UTDI sekaligus seorang pengembang perangkat 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dandilaelaem&theme=radial" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=dandilaelaem&theme=radial" alt="GitHub Streak" />
+  <img width="48%" src="https://vercel.app" alt="Top Languages" />
 </p>
+
